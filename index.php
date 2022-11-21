@@ -24,7 +24,7 @@
     <div class="row intro py-1">
       <div class="col-sm-12 col-md">
         <div class="heading text-center my-5">
-          <h1>SPARKS FOUNDATION BANK</h1>
+          <h1>Banking System</h1>
           <br>
           <h2 class="action"><span style="font-family: 'Roboto Slab', serif">CHOOSE AN ACTION</h2></span>
           <div class="column activity text-center">
@@ -45,7 +45,7 @@
         </div>
       </div>
       <div class="col-sm-12 col-md img text-center">
-        <img class="im" src="img/bank.png">
+        <img class="im" src="img/bank.jpg">
       </div>
     </div>
 
