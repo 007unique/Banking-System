@@ -27,13 +27,13 @@ CREATE TABLE `users_details` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 INSERT INTO `users_details` (`id`, `name`, `email`, `balance`) VALUES
-(1, 'AAA', 'aaa@gmail.com', 63000),
-(2, 'BBB', 'bbb@gmail.com', 89980),
-(3, 'CCC', 'ccc@gmail.com', 52446),
-(4, 'DDD', 'ddd@gmail.com', 78000),
-(5, 'EEE', 'eee@gmail.com', 24000),
-(6, 'FFF', 'fff@gmail.com', 60000),
-(7, 'GGG', 'ggg@gmail.com', 69024);
+(1, 'AAA', 'aaa@gmail.com', 23000),
+(2, 'BBB', 'bbb@gmail.com', 83480),
+(3, 'CCC', 'ccc@gmail.com', 12449),
+(4, 'DDD', 'ddd@gmail.com', 30000),
+(5, 'EEE', 'eee@gmail.com', 74000),
+(6, 'FFF', 'fff@gmail.com', 50000),
+(7, 'GGG', 'ggg@gmail.com', 39724);
 
 ALTER TABLE `transaction_details`
   ADD PRIMARY KEY (`sno`);
