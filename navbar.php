@@ -12,15 +12,15 @@
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="transfermoney.php">VIEW CUSTOMERS</a>
+        <a class="nav-link" href="transfer.php">VIEW CUSTOMERS</a>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="transfermoney.php">TRANSACTION</a>
+        <a class="nav-link" href="transfer.php">TRANSACTION</a>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="transactionhistory.php">HISTORY</a>
+        <a class="nav-link" href="history.php">HISTORY</a>
       </li>
   </div>
 </nav>

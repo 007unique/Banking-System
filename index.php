@@ -30,13 +30,13 @@
           <div class="column activity text-center">
             <br>
             <div class="col-md act">
-              <a href="transfermoney.php"><button>
+              <a href="transfer.php"><button>
                   <h3>View Customers to transfer<h3>
                 </button></a>
             </div>
             <br>
             <div class="col-md act">
-              <a href="transactionhistory.php"><button>
+              <a href="history.php"><button>
                   <h3>Transfer History<h3>
                 </button></a>
             </div>
