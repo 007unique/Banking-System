@@ -51,7 +51,7 @@ if (isset($_POST['submit'])) {
 
         if ($query) {
             echo "<script> alert('Transaction Successful');
-                                     window.location='transfermoney.php';
+                                     window.location='transfer.php';
                            </script>";
         }
 
